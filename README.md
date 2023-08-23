@@ -1,3 +1,9 @@
+📌 What Does the App Do? This Weather App provides real-time weather updates for cities around the world. Users can search for cities, view current weather conditions, and get a 7-day forecast. It's a practical tool that allows you to stay informed about the weather in your favorite places.
+
+🚀 Tech Stack Used: React: Built the user interface with a dynamic and responsive experience. React Select Async Paginate: For seamless and efficient city searches. OpenWeatherMap API: To fetch accurate weather data. RapidAPI: For geographic data to enhance the user experience.
+
+🌍 Features: Real-time updates on weather conditions. Search for cities and get accurate results. 7-day forecast for planning ahead. User-friendly and intuitive interface.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
